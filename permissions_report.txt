@@ -1,0 +1,6 @@
+total 20
+drwxr-xr-x  5 root root       4096 Oct  6 16:18 .
+drwxr-xr-x 20 root testers    4096 Oct  6 16:12 ..
+drwxrwx---  2 root developers 4096 Oct  6 10:30 development
+drwxr-xr-x  2 root root       4096 Oct  6 16:18 readonly
+drwxrwx---  2 root testers    4096 Oct  6 16:18 testing
